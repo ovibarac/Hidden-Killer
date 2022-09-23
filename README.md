@@ -8,6 +8,8 @@ Humans can see you kill if they are facing you and they are out of the fog.
 
 
 
+
+
 Game made in Unity in 3 days for the Spooktober Game Jam competition. Ranked 27/166.
 
 Download build or play on itch.io page: https://slipperytater.itch.io/hidden-killer
