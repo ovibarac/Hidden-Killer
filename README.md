@@ -15,3 +15,6 @@ Game made in Unity in 3 days for the Spooktober Game Jam competition. Ranked 27/
 Download or play on itch.io page: https://slipperytater.itch.io/hidden-killer
 
 itch.io profile: https://slipperytater.itch.io/
+
+
+![game](https://img.itch.zone/aW1hZ2UvODA1ODk5LzQ1MzE2NjYucG5n/347x500/lbP1Xn.png)
