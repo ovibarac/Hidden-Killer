@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: b9bd7f7451344844181b651929aa0c0e
+ScriptedImporter:
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: ceatamiscareata_GO/ceatamiscareata_GO
+  - first:
+      1: 100002
+    second: ceatamiscareata_GO/ceatamiscareata_GO/9 ceata fata
+  - first:
+      1: 100004
+    second: ceatamiscareata_GO/ceatamiscareata_GO/9 ceata fata copy
+  - first:
+      1: 100006
+    second: ceatamiscareata_GO/ceatamiscareata_GO/9 ceata fata copy 2
+  - first:
+      4: 400000
+    second: ceatamiscareata_GO/ceatamiscareata_GO/Transform
+  - first:
+      4: 400002
+    second: ceatamiscareata_GO/ceatamiscareata_GO/9 ceata fata/Transform
+  - first:
+      4: 400004
+    second: ceatamiscareata_GO/ceatamiscareata_GO/9 ceata fata copy/Transform
+  - first:
+      4: 400006
+    second: ceatamiscareata_GO/ceatamiscareata_GO/9 ceata fata copy 2/Transform
+  - first:
+      28: 2800000
+    second: ceatamiscareata
+  - first:
+      212: 21200000
+    second: ceatamiscareata_GO/ceatamiscareata_GO/9 ceata fata/SpriteRenderer
+  - first:
+      212: 21200002
+    second: ceatamiscareata_GO/ceatamiscareata_GO/9 ceata fata copy/SpriteRenderer
+  - first:
+      212: 21200004
+    second: ceatamiscareata_GO/ceatamiscareata_GO/9 ceata fata copy 2/SpriteRenderer
+  - first:
+      213: 21300000
+    second: 4729259e326bad94eace4e76edddc410
+  - first:
+      213: 21300002
+    second: 0200adc59c708e24c922c5523bc628f4
+  - first:
+      213: 21300004
+    second: 8cdba158a5c656448941d5b879f8b9bf
+  - first:
+      1001: 100100000
+    second: ceatamiscareata_GO
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: 9 ceata fata copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 3840
+      height: 1138
+    spriteID: 4729259e326bad94eace4e76edddc410
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -7676, y: 4}
+  - name: 9 ceata fata copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1150
+      width: 3840
+      height: 1138
+    spriteID: 0200adc59c708e24c922c5523bc628f4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3836, y: 1150}
+  - name: 9 ceata fata
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2296
+      width: 3840
+      height: 1138
+    spriteID: 8cdba158a5c656448941d5b879f8b9bf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2296}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 11520, y: 1138}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: 9 ceata fata copy 2
+    spriteName: 9 ceata fata copy 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4729259e326bad94eace4e76edddc410
+    layerID: 5
+    mosaicPosition: {x: 4, y: 4}
+  - name: 9 ceata fata copy
+    spriteName: 9 ceata fata copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0200adc59c708e24c922c5523bc628f4
+    layerID: 4
+    mosaicPosition: {x: 4, y: 1150}
+  - name: 9 ceata fata
+    spriteName: 9 ceata fata
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8cdba158a5c656448941d5b879f8b9bf
+    layerID: 2
+    mosaicPosition: {x: 4, y: 2296}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: ceatamiscareata
+  prefabAssetName: ceatamiscareata_GO
+  spriteLibAssetName: ceatamiscareata Sprite Lib
+  secondarySpriteTextures: []
